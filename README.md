@@ -2,10 +2,10 @@ Web Programming - ICP1
 
 Date : 01/25/2020
 
-Installation of tools
+1. Installation of tools
 
-Repository Creation
+2. Repository Creation
 
-Creation of index.html file
+3. Creation of index.html file
 
-Fork Existing Repository
+4. Fork Existing Repository
