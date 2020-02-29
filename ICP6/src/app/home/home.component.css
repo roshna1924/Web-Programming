@@ -1,0 +1,23 @@
+.parent-container {
+  position: relative;
+  height:100%;
+  width: 100%;
+}
+
+.box {
+  background-color: #747704;
+  height: 80px;
+}
+
+.child-container {
+  color: white;
+  text-align: center;
+  position: center;
+
+}
+.desc {
+  font-family: Georgia;
+  font-size: 17px;
+}
+
+
