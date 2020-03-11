@@ -1,0 +1,30 @@
+{
+  "name": "Snake Game",
+  "version": "0.1.2",
+  "license": "MIT",
+  "angular-cli": {},
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "lint": "tslint \"src/**/*.ts\""
+  },
+  "private": false,
+  "dependencies": {
+    "@angular/common": "^5.2.11",
+    "@angular/compiler": "^5.2.11",
+    "@angular/core": "^5.2.11",
+    "@angular/platform-browser": "^5.2.11",
+    "@angular/platform-browser-dynamic": "^5.2.11",
+    "core-js": "^2.6.11",
+    "zone.js": "^0.8.29"
+  },
+  "devDependencies": {
+    "@angular/cli": "^1.7.4",
+    "@angular/compiler-cli": "^5.2.11",
+    "@types/node": "^8.10.59",
+    "codelyzer": "^4.5.0",
+    "ts-node": "^3.3.0",
+    "tslint": "^5.20.1",
+    "typescript": "^2.9.2"
+  }
+}
