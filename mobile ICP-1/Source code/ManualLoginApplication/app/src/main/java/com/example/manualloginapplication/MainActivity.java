@@ -30,8 +30,8 @@ public class MainActivity extends AppCompatActivity {
         b1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                if(ed1.getText().toString().equals("roshnatoke@gmail.com") &&
-                        ed2.getText().toString().equals("roshna")) {
+                if(ed1.getText().toString().equals("yamini@gmail.com") &&
+                        ed2.getText().toString().equals("manaswini123")) {
                     Toast.makeText(getApplicationContext(),
                             "Redirecting...",Toast.LENGTH_SHORT).show();
                     reDirectToHomePage();
