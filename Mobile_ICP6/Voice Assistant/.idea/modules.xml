@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Mobile_ICP6-Voice Assistant.iml" filepath="$PROJECT_DIR$/Mobile_ICP6-Voice Assistant.iml" group="Voice Assistant" />
+      <module fileurl="file://$PROJECT_DIR$/Voice Assistant.iml" filepath="$PROJECT_DIR$/Voice Assistant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/Voice Assistant-app.iml" filepath="$PROJECT_DIR$/app/Voice Assistant-app.iml" group="Voice Assistant/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
